@@ -41,4 +41,4 @@ Generate input file:
 Notes:
 	- Check the Output Screenshots folder for all the screenshots for all the 3 algorithms.
 	- Global k-means is computational intensive and hence is not advisable to run on large set of data. Execution of 500 data with 10 features each and 10 clusters takes around 3 hours. Execution of k-means clustering on the entire MNIST train set of 60000 data takes around 10 minutes. Execution of fast global for 500 data with 10 features each and 10 clusters takes 15 seconds
-	- Because of this, as advised by TA, the executions are run on a subset data of size 500 and 1000, the results of which can be seen in the Output Screenshots folder.
+	- Because of this, the executions are run on a subset data of size 500 and 1000, the results of which can be seen in the Output Screenshots folder.
